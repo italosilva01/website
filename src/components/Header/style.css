@@ -1,0 +1,10 @@
+@media(min-width:1025px){
+.sticky{
+   
+    position:fixed !important;
+    top:0 !important;
+    padding-top: 0% !important;
+    margin-top:0.1%!important;
+    }
+  
+} 
