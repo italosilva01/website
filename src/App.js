@@ -1,13 +1,17 @@
 import React from 'react';
 
-import Header from './components/Header/Header'
+import Home from './page/home/Home';
+import styled from 'styled-components';
+
+
 function App() {
   return (
     <div className="App">
-     <Header/>
-     <p>dadadads</p>
+
+      <Home></Home>
     </div>
   );
 }
+
 
 export default App;

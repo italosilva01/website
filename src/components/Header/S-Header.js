@@ -12,7 +12,7 @@ export const Header = styled.header`
     align-items:center;
     z-index:11;
     overflow: hidden;
-    background-color: rgba(0,0,0.5); 
+    background-color: rgba(0,0,0,0.5); 
     color:white;
     font-family: 'Oswald', sans-serif;
 
@@ -115,7 +115,7 @@ export const Header = styled.header`
        margin-top:0%;
        padding-top:1%;
        font-size:1.2rem;
-       width:99vw;
+       width:100%;
        justify-content:space-around;
         
         div{
